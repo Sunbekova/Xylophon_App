@@ -12,6 +12,7 @@ Each key produces a different musical note, making it easy to create melodies an
 | Programming Language:            | Swift                          |
 | Frameworks:                      | UIKit for the user interface   |
 | Layout:                          | UIStackView                    |
+| Audio Playback:	                 | AVFoundation                   |
 
 
 # Key Features:
