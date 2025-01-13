@@ -32,8 +32,9 @@ Each key produces a different musical note, making it easy to create melodies an
    - The use of stack views allows for responsive layout adjustments across different device sizes.
 # Project Preview
 
-![xylophoneLounch](https://github.com/user-attachments/assets/ce74bb0b-286b-4323-954c-12cfec75b462)
-![xylophoneMain](https://github.com/user-attachments/assets/95ae824e-ebf7-44da-aa4e-e12521449157)
+| Lounch Screen                  | App Screen                         |
+|----------------------------------|--------------------------------|
+| ![xylophoneLounch](https://github.com/user-attachments/assets/ce74bb0b-286b-4323-954c-12cfec75b462) | ![xylophoneMain](https://github.com/user-attachments/assets/95ae824e-ebf7-44da-aa4e-e12521449157) |
 
 
 https://github.com/user-attachments/assets/78726dd8-9eb0-4cec-82d9-6d3a3e2ef520
